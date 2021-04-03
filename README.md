@@ -1,1 +1,2 @@
 # CNN-MNIST
+# copis-app
